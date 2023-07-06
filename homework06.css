@@ -1,0 +1,72 @@
+h2 {text-align: center;
+    text-decoration: underline;
+
+}
+
+#Freezer {background-color: blanchedalmond;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+
+#Fridge {background-color: azure;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+
+#Pantry {background-color: rgb(196, 255, 233);
+    border-style: solid;
+}
+
+#freezerh3 {
+    background-color: grey;
+    text-align: center;
+    border-style: dashed;
+
+}
+
+#pantryh3 {
+    background-color: grey;
+    text-align: center;
+    border-style: dashed;
+}
+
+#fridgeh3 {
+    background-color: grey;
+    text-align: center;
+    border-style: dashed;
+
+}
+
+#dgh5 {
+    background-color: white;
+}
+
+#ch5 {
+    background-color: white;
+}
+
+#canned {background-color: azure;
+}
+
+#drygoods {background-color: white;
+}
+
+#pizza {
+    
+    padding: 50px;
+    margin: 20px;
+    position: relative;
+    left: 500px;
+    bottom: 625px; 
+}
+
+#pancake { 
+    padding: 50px;
+    margin: 20px;
+    position: relative;
+    left: 500px;
+    bottom: 625px;
+
+    
+}
+
